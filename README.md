@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 🎯 Passionate about building scalable web applications, exploring automation with **n8n**, and integrating AI into modern solutions.  
-🚀 I enjoy solving real-world problems using tech — from **Java Full Stack** to **MERN Stack** and **AI-based tools**.  
+🚀 I enjoy solving real-world problems using tech from **Java Full Stack** to **MERN Stack** and **AI-based tools**.  
 📚 Currently exploring **Cloud**, **Data Analytics**, and **AI-driven workflows**.
 
 ---
