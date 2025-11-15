@@ -1,23 +1,17 @@
-<!-- Top GIF Banner -->
 <p align="center">
-  <img src=![Demo](https://github.com/Rohi-16/python/issues/2#issue-3628688166)
-  alt="Rohini Pandit" width="600">
+  <img src=https:"//github.com/Rohi-16/python/issues/3#issue-3628741628" />
 </p>
-
 <!-- Visitor Count -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Rohi-16&label=Profile%20Views&color=ff69b4&style=flat-square" />
 </p>
-
-<h1 align="center">✨ Full Stack Web Developer | AI Automation | Data Analytics | Tech Blogger ✨</h1>
-
 
 
 ## 🌟 About Me  
 
 💡 I’m Rohini, a developer who blends **full-stack engineering**, **AI tools**, and **data-driven thinking** to build practical, fast, and impactful solutions.  
 🚀 I love creating systems that automate tasks, simplify workflows, and enhance digital experiences.  
-🧩 Whether it’s backend logic, frontend UI, cloud deployment, automation using **n8n**, or analyzing data patterns — I enjoy the full cycle of development.  
+🧩 Whether it’s backend logic, frontend UI, cloud deployment, automation using **n8n**, or analyzing data patterns.I enjoy the full cycle of development.  
 📚 I consistently learn, experiment, and build… every single day.  
 🔗 Currently improving my **AI workflow engineering**, **Next.js mastery**, and **data visualization skills**.
 
