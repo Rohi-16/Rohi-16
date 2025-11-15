@@ -1,5 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/123jrTug6ZT6AXB0tDgWvp9FB1hPky4Qk/view?usp=drivesdk" alt="banner" width="100%" />
- 
+<img src="https://drive.google.com/uc?export=view&id=123jrTug6ZT6AXB0tDgWvp9FB1hPky4Qk" width="100%" />
 <!-- Visitor Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohi-16&label=Profile%20Views&color=ff69b4&style=flat-square" />
@@ -92,7 +91,7 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/rohinip12/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
@@ -100,7 +99,7 @@
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
 
-<a href="https://practice.geeksforgeeks.org/">
+<a href="">
   <img src="https://img.shields.io/badge/GFG-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
 </a>
 
@@ -129,15 +128,15 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/rohini-pandit-5858a331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://wordpress.com/">
+<a href="https://rpanditblog.wordpress.com/">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </a>
 
-<a href="https://twitter.com/">
+<a href="https://x.com/rp_19/articles">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
