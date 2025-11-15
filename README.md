@@ -1,5 +1,5 @@
 <p align="center">
-  <https://private-user-images.githubusercontent.com/129616733/514761401-c206edc2-29c9-4276-b6f9-097ab6a951da.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMyMTM0ODMsIm5iZiI6MTc2MzIxMzE4MywicGF0aCI6Ii8xMjk2MTY3MzMvNTE0NzYxNDAxLWMyMDZlZGMyLTI5YzktNDI3Ni1iNmY5LTA5N2FiNmE5NTFkYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExNVQxMzI2MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MTIxODRjZTFiZjFjM2U4YmEzNGU0Y2UyN2FkYzcyMzUwM2EyY2YzY2ZmM2FkYjE5Y2Y4MWZmMDMzODFkMzE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-mFSbI-sj6l1E62NgfPynuYvnqejfbM6qPmGa0dt6Eg />
+  <https://github.com/Rohi-16/python/issues/2#issue-3628688166 />
 </p>
 <!-- Visitor Count -->
 <p align="center">
@@ -116,8 +116,8 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohi-16&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohi-16&theme=radical" height="165" />
 </p>
 
 
