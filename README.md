@@ -1,6 +1,5 @@
 <p align="center">
-  <https://github.com/Rohi-16/python/issues/2#issue-3628688166 />
-</p>
+  ![My gif](https://github.com/Rohi-16/python/issues/2#issue-3628688166)
 <!-- Visitor Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohi-16&label=Profile%20Views&color=ff69b4&style=flat-square" />
