@@ -19,7 +19,7 @@
 
 # 🛠️ Skills & Technologies  
 
-> All icons are clickable + animated badges
+
 
 
 
