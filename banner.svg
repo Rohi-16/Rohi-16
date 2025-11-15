@@ -1,0 +1,50 @@
+<svg width="100%" height="150" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="black"/>
+
+  <!-- Import Pixel Font -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+    .title {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 28px;
+      fill: #ff0000;
+    }
+
+    .cursor {
+      animation: blink 0.8s infinite;
+    }
+
+    @keyframes blink {
+      0% { opacity: 1; }
+      50% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+  </style>
+
+  <!-- Typewriter Effect -->
+  <text x="50%" y="50%" text-anchor="middle" class="title">
+    <tspan id="text"></tspan><tspan class="cursor">|</tspan>
+  </text>
+
+  <script type="text/javascript">
+    <![CDATA[
+      const textElement = document.getElementById('text');
+      const message = "HI, I AM ROHINI PANDIT";
+      let index = 0;
+
+      function typeWriter() {
+        if (index <= message.length) {
+          textElement.textContent = message.substring(0, index);
+          index++;
+          setTimeout(typeWriter, 120);
+        }
+      }
+
+      typeWriter();
+    ]]>
+  </script>
+
+</svg>
