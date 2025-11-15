@@ -1,6 +1,6 @@
 <!-- Top GIF Banner -->
 <p align="center">
-  <img src="https://github.com/Rohi-16/python/issues/2#issue-3628688166" alt="Rohini Pandit" width="600">
+  <img src="https://github.com/Rohi-16/python/issues/2 alt="Rohini Pandit" width="600">
 </p>
 
 <!-- Visitor Count -->
