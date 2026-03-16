@@ -1,3 +1,9 @@
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey+I'm+Rohini+Pandit" alt="Typing SVG" />
+</h1>
+
+
 <img src="https://drive.google.com/uc?export=view&id=123jrTug6ZT6AXB0tDgWvp9FB1hPky4Qk" width="100%" />
 <!-- Visitor Count -->
 <p align="center">
