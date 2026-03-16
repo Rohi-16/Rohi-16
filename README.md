@@ -1,9 +1,6 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Anton&size=40&pause=1000&color=FFD700&background=7A0000&center=true&vCenter=true&width=700&height=90&lines=HEY!+I+AM+ROHINI+PANDIT" />
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey+I'm+Rohini+Pandit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=welcome+to+my+github
+enjoy+exploring+my+projects" alt="Typing SVG" />
 </h1>
 
 
